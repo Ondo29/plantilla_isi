@@ -223,19 +223,18 @@ Los apartados 6.1 y 6.2 corresponden a las descripciones detalladas de UC-05 y U
 
 ### 6.1 Descripción detallada UC-05 — Actualizar perfil
 
-**Identificador y nombre del caso de uso:** [Indica el caso.]
+**Identificador y nombre del caso de uso:** [Indica el caso.] caso omicidio en un hotel de nuevayork
 
-**Objetivo:** [Explica qué resultado pretende obtener el participante.]
+**Objetivo:** [Explica qué resultado pretende obtener el participante.] el objetivo consiste en descubrir el asesinato de un magnate petrolero
 
-**Participantes:** [Indica el actor principal y los actores de apoyo, si los hay.]
+**Participantes:** [Indica el actor principal y los actores de apoyo, si los hay.] usuario registrado, no hay actores de apoyo
+**Precondiciones:** [Indica qué se da por cumplido al comenzar.el usario ] el usuario ya dispone de una cuenta
 
-**Precondiciones:** [Indica qué se da por cumplido al comenzar. Las comprobaciones que realiza el sistema pertenecen al flujo.]
+**Inicio:** [Indica qué acción o suceso inicia el caso.] actualizar perfil 
 
-**Inicio:** [Indica qué acción o suceso inicia el caso.]
+**Escenario principal de éxito:** [Describe la secuencia entre los participantes y el sistema.] el usuario inicia sesión, el sistema le acepta el acceso , y funciona
 
-**Escenario principal de éxito:** [Describe la secuencia entre los participantes y el sistema.]
-
-**Extensiones (flujos alternativos):** [Vincula cada variación a un paso. Indica cómo continúa o termina.]
+**Extensiones (flujos alternativos):** [Vincula cada variación a un paso. Indica cómo continúa o termina.] el usuario accede a su cuenta y cierra sesión 
 
 **Postcondiciones:** [Indica qué queda establecido con éxito y qué se conserva o cambia si el caso termina sin éxito o se cancela. Una consulta no requiere modificar datos para alcanzar su objetivo.]
 
