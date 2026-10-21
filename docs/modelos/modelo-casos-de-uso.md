@@ -244,17 +244,17 @@ Los apartados 6.1 y 6.2 corresponden a las descripciones detalladas de UC-05 y U
 
 ### 6.2 Descripción detallada UC-21 — Buscar recetas
 
-**Identificador y nombre del caso de uso:** [Indica el caso.]
+**Identificador y nombre del caso de uso:** [Indica el caso.] gestionar recetas propias
 
 **Objetivo:** [Explica qué resultado pretende obtener el participante.]
 
-**Participantes:** [Indica el actor principal y los actores de apoyo, si los hay.]
+**Participantes:** [Indica el actor principal y los actores de apoyo, si los hay.] usuario registrado, actores de apoyo cuidador y nutricistas
 
 **Precondiciones:** [Indica qué se da por cumplido al comenzar. Las comprobaciones que realiza el sistema pertenecen al flujo.]
 
-**Inicio:** [Indica qué acción o suceso inicia el caso.]
+**Inicio:** [Indica qué acción o suceso inicia el caso.] indica que quiere buscar recetas
 
-**Escenario principal de éxito:** [Describe la secuencia entre los participantes y el sistema.]
+**Escenario principal de éxito:** [Describe la secuencia entre los participantes y el sistema.] 
 
 **Extensiones (flujos alternativos):** [Vincula cada variación a un paso. Indica cómo continúa o termina.]
 
